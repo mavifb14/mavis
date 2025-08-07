@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é uma variável?',
+    'é um símbolo ou nome que representa um valor que pode mudar ou variar'
 )
 
 criaCartao(
