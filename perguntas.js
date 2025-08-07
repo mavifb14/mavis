@@ -6,18 +6,18 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Austrália?',
+    'A capital da Austrália é Camberra'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é um erro de sintaxe?',
+    ' um erro de sintaxe ocorre quando o código escrito não segue as regras gramaticais da linguagem de programação utilizada ' 
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz tchau em Inglês?',
+    'Tchau em ingles é goodbye'
 )
